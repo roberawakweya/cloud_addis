@@ -444,7 +444,7 @@ a,a:hover{-webkit-transition:all 0.2s ease-in-out;-moz-transition:all 0.2s ease-
 .hom-page-service-more:before{content:'';height:450px;width:450px;background:rgba(51, 51, 51, 0.4);position:absolute;border-radius:100%;left:-120px;z-index:0;pointer-events:none;opacity:0.1;top:-50px;}
 .hom-page-service-more-payment{position:absolute;bottom:20px;}
 .hom-page-service-more-payment a{margin:0 5px;}
-.hom-page-service-more-payment a img{height:15px;opacity:1;}
+.hom-page-service-more-payment a img{height:22px;opacity:1;}
 .hom-page-service-more-title{font-family:'Poppins', sans-serif;text-transform:uppercase;font-weight:bold;font-size:20px;letter-spacing:1px;color:#ffffff;margin-top:5px;}
 .hom-page-service-more-title span{font-weight:500;display:block;font-size:14px;letter-spacing:0;text-transform:none;margin-top:5px;}
 .hom-page-service-more-banner{position:absolute;right:50px;z-index:2;top:50%;transform:translateY(-50%);}
