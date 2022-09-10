@@ -2731,3 +2731,7 @@
      bottom: -115px;
      top: 0;
  }
+ i {
+    display: inline-block;
+    margin-right: 0.6em;
+  }
