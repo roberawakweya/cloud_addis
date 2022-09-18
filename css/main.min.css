@@ -945,8 +945,11 @@
  .contact-page-form-send .field.input-field i{position:absolute;top:17px;right:20px;color:#00BCD4;opacity:0.6;font-size:13px;}
  .contact-us-social-icons a{color:#fdfdfd;margin:0 3px;width:35px;height:35px;display:inline-block;text-align:center;line-height:35px;background:#161623;border-radius:38px;font-size:12px;}
  .contact-us-social-icons a.fb{background:#3c579a;}
+ .contact-us-social-icons a.tg{background:#0088cc;}
  .contact-us-social-icons a.tw{background:#00acee;}
  .contact-us-social-icons a.yb{background:#dd4c39;}
+ .contact-us-social-icons a.ig{background:#f56040;}
+ .contact-us-social-icons a.li{background:#313335;}
  .immediate-help-center-title{font-weight:700;font-size:18px;margin-top:40px;position:relative;line-height:30px;margin-bottom:20px;}
  .immediate-help-center-title:after{content:'';position:absolute;height:3px;width:20px;bottom:-10px;background:#d2dade;left:0;-webkit-transition:all 0.2s ease-in-out;-moz-transition:all 0.2s ease-in-out;-o-transition:all 0.2s ease-in-out;-ms-transition:all 0.2s ease-in-out;transition:all 0.2s ease-in-out;}
  .immediate-help-center-title:hover::after{width:50px;-webkit-transition:all 0.2s ease-in-out;-moz-transition:all 0.2s ease-in-out;-o-transition:all 0.2s ease-in-out;-ms-transition:all 0.2s ease-in-out;transition:all 0.2s ease-in-out;}
