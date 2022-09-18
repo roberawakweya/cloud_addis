@@ -1175,6 +1175,10 @@
      text-align: center;
      color: #fff;
  }
+ #wordpress.moon-edition .main-header-text-title {
+    text-align: center;
+    color: #fff;
+}
  
  #coodiv-header.moon-edition .domain-search-header-pricetext {
      color: #feffff;
